@@ -7,8 +7,7 @@ int main(void) {
     printf("Enter two integers:\n");
     scanf("%d%d", &a, &b);
 
-    int result = 0;
-    result = a + b;
+    int result = a + b;
 
     printf("The result is %d\n", result);
 
