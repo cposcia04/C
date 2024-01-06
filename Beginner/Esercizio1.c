@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     printf("Welcome to C!\n");
     return 0;
 }
