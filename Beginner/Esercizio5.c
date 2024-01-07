@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int base, altezza;
 
     printf("Valore della base: ");
