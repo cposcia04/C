@@ -3,3 +3,5 @@
 * [Exercise 2](./ex2.c/): Print multiple lines with a single printf
 * [Exercise 3](./ex3.c/): Sum of two integers
 * [Exercise 4](./ex4.c/): Class average with counter-controlled iteration
+<li></li>
+
