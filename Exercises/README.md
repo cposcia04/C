@@ -1,3 +1,3 @@
 ## Exercises sorted by difficulty
 * [Exercise 1](./ex1.c/): Print the message "Hello world!" on the screen
-* 
+* [Exercise 2](./ex2.c/): Print multiple lines with a single printf
