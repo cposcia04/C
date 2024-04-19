@@ -1,3 +1,3 @@
 ## Exercises sorted by difficulty
-* Esercizio 1: stampare a schermo il messaggio "Hello world!"
+* Exercise 1: Print the message "Hello world!" on the screen
 * 
