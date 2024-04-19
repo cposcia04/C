@@ -9,9 +9,8 @@ int main() {
     printf("Valore dell'altezza: ");
     scanf("%d", &altezza);
 
-    int perimetro, area;
-    perimetro = 2 * base + 2 * altezza;
-    area = base * altezza;
+    int perimetro = 2 * base + 2 * altezza;
+    int area = base * altezza;
 
     printf("Il perimetro è %d e l'area è %d\n", perimetro, area);
 
