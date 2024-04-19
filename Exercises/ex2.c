@@ -2,5 +2,5 @@
 
 // function main begins program execution 
 int main(void) {
-   printf("Welcome\nto\nC!\n");
+   printf("Hello\nworld\n");
 } // end function main 
