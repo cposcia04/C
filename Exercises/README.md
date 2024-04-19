@@ -2,7 +2,7 @@
 * [Exercise 1](./ex1.c/): Print the message "Hello world!" on the screen
 * [Exercise 2](./ex2.c/): Print multiple lines with a single printf
 * [Exercise 3](./ex3.c/): Sum of two integers
-* [Exercise 4](./ex4.c/): Class average with counter-controlled iteration
-* [Exercise 5](./ex5.c/):
+* [Exercise 4](./ex4.c/): Calculating average using counter-controlled iteration
+* [Exercise 5](./ex5.c/): Calculating average using sentinel-control iteation
 
 
