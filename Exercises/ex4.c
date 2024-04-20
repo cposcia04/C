@@ -8,7 +8,7 @@ int main(void) {
     while (counter <= 10) {
         printf("%s", "Enter a grade: ");
         scanf("%lf", &grade);
-        total += grade; // 
+        total += grade; 
         ++counter;
     }
 
