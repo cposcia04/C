@@ -6,4 +6,4 @@
 * [Exercise 5](./ex5.c/): Calculate average using sentinel-control iteration
 * [Exercise 6](./ex6.c/): Calculate the sum of the integers from 1 to 10 
 
-
+--
