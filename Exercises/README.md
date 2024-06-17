@@ -5,7 +5,7 @@
 * [Esercise 4](./rectangle.c/): Calculate the area of a rectangle
 * [Exercise 5](./circle.c/): Calculate the area and perimeter of a circle
 * [Exercise 6](./cube.c/): Calculate the area and the volume of a cube
-* [Exercise 6](./feettoinch.c/): Convert from feet to inches
+* [Exercise 7](./feettoinch.c/): Convert from feet to inches
 
 ---
 ## Looping problems
