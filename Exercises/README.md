@@ -2,7 +2,8 @@
 * [Exercise 1](./ex1.c/): Print the message "Hello world!" on the screen
 * [Exercise 2](./ex2.c/): Print multiple lines with a single printf
 * [Exercise 3](./ex3.c/): Sum of two integers
-* [Exercise 4](./circle.c/): Calculate the area and perimeter of a circle
+* [Esercise 4](./rectangle.c/): Calculate the area of a rectangle
+* [Exercise 5](./circle.c/): Calculate the area and perimeter of a circle
 
 ---
 ## Looping problems
