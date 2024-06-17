@@ -4,6 +4,7 @@
 * [Exercise 3](./ex3.c/): Sum of two integers
 * [Esercise 4](./rectangle.c/): Calculate the area of a rectangle
 * [Exercise 5](./circle.c/): Calculate the area and perimeter of a circle
+* [Exercise 6](./feettoinch.c/): Convert from feet to inches
 
 ---
 ## Looping problems
