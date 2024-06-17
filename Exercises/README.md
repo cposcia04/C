@@ -7,6 +7,10 @@
 * [Exercise 6](./ex6.c/): Calculate the sum of the integers from 1 to 10 
 
 ---
+## Looping problems
+
+
+---
 
 ## Switch
 * [Esercise 1](./converter.c/): Converter from Celsius to Fahrenheit and viceversa
