@@ -1,2 +1,3 @@
 # C programming language
-Programming [(./exercises/)] using C
+Programming [exercises](./exercises/) using C
+
