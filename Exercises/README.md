@@ -16,4 +16,6 @@
 ---
 
 ## Switch
-* [Esercise 1](./converter.c/): Converter from Celsius to Fahrenheit and viceversa
+* [Exercise 1](./converter.c/): Converter from Celsius to Fahrenheit and viceversa
+* [Exercise 2]():
+* [Exercise 3](./vowelconsonant.c/): Program to check whether a character is a vowel or a consonant
