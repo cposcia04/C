@@ -1,2 +1,2 @@
 # C programming language
-Programming exercises using C
+Programming (./exercises/) using C
