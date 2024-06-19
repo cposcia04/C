@@ -8,6 +8,11 @@
 * [Exercise 7](./feettoinch.c/): Convert from feet to inches
 
 ---
+## If...else
+* [Exercise 1](./evenodd.c/): C program to check whether a given number is EVEN or ODD
+
+
+---
 ## Looping problems
 * [Exercise 1](./ex4.c/): Calculate average using counter-controlled iteration
 * [Exercise 2](./ex5.c/): Calculate average using sentinel-control iteration
